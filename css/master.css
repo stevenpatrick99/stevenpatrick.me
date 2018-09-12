@@ -1,0 +1,22 @@
+body{
+  background-color: #c5d5cb;
+  font-family: "Gill Sans", Helvetica, sans-serif;
+  text-align:center;
+}
+#top h1{
+  color:#000000;
+}
+header h1 {
+  color:#9fa8a3;
+}
+header h2 {
+  color:#e3e0cf;
+}
+#list li{
+
+  display: inline;
+   padding: 10px;
+   border: 1px solid #9fa8a3;
+   margin-right: 5px;
+
+}
